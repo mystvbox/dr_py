@@ -27,7 +27,7 @@ body {
 .mz {
     text-align: center;
     display: inline-block;
-    width: 40%;
+    width: 35%;
 }
 
 .mz a {
@@ -42,9 +42,27 @@ body {
     background-color: #cb13b2;
 }
 
+.sa {
+    text-align: center;
+    width: 10%;
+    display: inline-block;
+}
+
+.sa a {
+    border-radius: 25px;
+    border-style: solid;
+    color: #FFFFFF;
+    padding: 2px 7px 2px 7px;
+    border-style: solid;
+    border-color: #17af30;
+    text-decoration: none;
+    background-color: #17af30;
+
+}
+
 .sj {
     text-align: center;
-    width: 18%;
+    width: 15%;
     display: inline-block;
 }
 
@@ -61,7 +79,7 @@ body {
 }
 
 .ss {
-    width: 18%;
+    width: 15%;
     text-align: center;
     display: inline-block;
 }
@@ -80,7 +98,7 @@ body {
 
 .sc {
     text-align: center;
-    width: 18%;
+    width: 15%;
     /*padding-right: 5%;*/
     display: inline-block;
 }
@@ -106,7 +124,17 @@ body {
     font-size: 15px;
     padding-left: 5px
 }
-
+.btn-player{
+    border-radius: 25px;
+    font-size: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+    border: #1e98d4;
+    color: #FFFFFF;
+    text-decoration: none;
+    background-image: linear-gradient(to right, rgb(71, 74, 252), rgb(252, 70, 243));
+}
 .ver {
     font-size: 16px;
     margin-left: 5px;
@@ -473,7 +501,7 @@ a {
     font-weight: bold;
     font-size: 1rem;
     width: 290px;
-    height: 26;
+    height: 26px;
     border-radius: 25px;
     color: #eeeff9;
     background-color: rgb(71, 143, 250);
