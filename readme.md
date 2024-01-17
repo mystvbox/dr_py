@@ -4,14 +4,14 @@
   <a href="https://alist.nn.ci"><img height="100px" alt="logo" src="https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/static/img/icon.png"/></a>
   <p><em>🗂️A webServer convert web and x5 movie sites to cms api data</em></p>
   <a href="https://github.com/hjdhnx/dr_py/releases">
-    <img src="https://img.shields.io/badge/version-3.9.43-blue" alt="latest version" />
+    <img src="https://img.shields.io/badge/version-3.9.45-blue" alt="latest version" />
   </a>
   <a href="https://github.com/hjdhnx/dr_py/issues">
     <img src="https://img.shields.io/badge/issues-3-orange" alt="discussions" />
   </a>
 
-<a href="https://wwi.lanzoup.com/ir3mn0yp0g7i">
-    <img src="https://img.shields.io/badge/蓝奏云下载-3.9.43b5-blue" alt="Downloads" />
+<a href="https://wwi.lanzoup.com/ijsmt10tgh5e">
+    <img src="https://img.shields.io/badge/蓝奏云下载-3.9.45b1-blue" alt="Downloads" />
   </a>
 
 
@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/install support-termux|windows|ubuntu|python3.6~python3.8-yellowgreen" />
 </a>
 
-[更新日志](./doc/更新日志.md) | [推荐PC端使用zyplayer新版](https://github.com/Hiram-Wong/ZyPlayer/releases)  
+[更新日志](./doc/更新日志.md) | [C#版drpy](https://github.com/flash168/Peach) | [推荐PC端使用zyplayer新版](https://github.com/Hiram-Wong/ZyPlayer/releases)  
 [android&linux&macos搭建教程](./doc/安卓本地搭建说明.md) | [windows搭建教程](./doc/windows搭建说明.md)  
 [写源教程](./doc/写源教程.md)  | [js压缩.min.js](./doc/js压缩.md)  
 [十分钟学会python](https://www.w3cschool.cn/iqmrhf/wngzuozt.html)
@@ -50,6 +50,7 @@
 [我的豆瓣](./static/img/豆瓣.png)  
 [爱看不看](https://jason-ray.notion.site/jason-ray/Pluto-TVB-706da08332804a19ab012b4f8385df64)|[goorm](./doc/道长乱说.md)|[大佬地盘](./doc/大佬友链.md)   
 [其他语言实现drpy-cms接口](./doc/接口文档.md)  
+[快速搭建海阔视界道长仓库](./doc/海阔视界道长仓库搭建说明.md)  
 [dr项目QQ官群](https://qm.qq.com/cgi-bin/qm/qr?k=H2KwcXrMdiR5M2blHR5gjZzPfN_S3N_C&jump_from=webapi)  
 
 
